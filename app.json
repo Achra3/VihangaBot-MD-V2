@@ -1,5 +1,5 @@
 {
-    "name": "VIHANA MD",
+    "name": "NINJA BOT",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/zim-bot/zimbot-v2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -39,7 +39,7 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "_I am alive now 😼_"
+  "value" : "_I am alive daBa 😼_"
     },
         
 "CALL_BLOCK" :{
@@ -69,37 +69,37 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "🥷"
     },
       
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212677541693"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212677541693"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "212677541693"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "NINJA BOT"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "NINJA BOT"
     },
       
 "GROUP_LINK" :{
@@ -117,13 +117,13 @@
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY NINJA BOT"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY NINJA BOT*"
 },
     
 "IMG_URL" :{
