@@ -1,5 +1,5 @@
 {
-    "name": "Silina-bot01",
+    "name": "NINJA BOT 🥷🥷",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/zim-bot/zimbot-v2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
@@ -75,31 +75,31 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "212677541693"
+  "value" : "+212677541693"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "212677541693"
+  "value" : "+212677541693"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "212677541693"
+  "value" : "+212677541693"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "Silina-bot01"
+  "value" : "NINJA BOT 🥷🥷"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "Silina-bot01"
+  "value" : "NINJA 🥷🥷"
     },
       
 "GROUP_LINK" :{
@@ -117,13 +117,13 @@
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY Silina-bot01"
+  "value" : "STICKER BY NINJA BOT 🥷🥷"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY Silina-bot01*"
+  "value" : "*BY NINJA BOT 🥷🥷*"
 },
     
 "IMG_URL" :{
